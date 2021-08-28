@@ -30,4 +30,6 @@ Liquidity pool: 850,000 JADE for Pancakeswap
 Our Partners
 According to our roadmap, we will begin onboarding dealers that sell jade and other precious gems to join our NFT marketplace and metaverse shop in Decentraland. These dealers will be considered reputable within the industry and they will be vetted by our team prior to them listing their store in the marketplace. These reputable dealers almost always send a certificate of the legitimacy of the Jade they are selling and buyers will comfortable be able to purchase these gems with any cryptocurrency of their choice. If you are a dealer and are interested in being listed in the marketplace or being featured in the NFT shop in the Metaverse, then please use the contact form to file for inquiry.
 
+Visit us on our website: https://www.jadecurrency.com
+
 
