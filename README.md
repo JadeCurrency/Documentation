@@ -17,15 +17,15 @@ The JADE token will act as a fractional ownership token. Public holders are taki
 
 ### Total/max supply: 90,000,000 JADE
 
-#### Circulation Supply: 53,652,398 JADE
+#### * Circulation Supply: 53,652,398 JADE
 
-#### Farming Incentives: 20,000,000 JADE (over 2 year period)
+#### * Farming Incentives: 20,000,000 JADE (over 2 year period)
 
-#### Team: 9,000,000 JADE (vested two year schedule with lock up)
+#### * Team: 9,000,000 JADE (vested two year schedule with lock up)
 
-#### Marketing: 6,497,602 JADE (lock up with two year schedule release)
+#### * Marketing: 6,497,602 JADE (lock up with two year schedule release)
 
-#### Liquidity pool: 850,000 JADE for Pancakeswap
+#### * Liquidity pool: 850,000 JADE for Pancakeswap
 
 ## Our Partners
 
